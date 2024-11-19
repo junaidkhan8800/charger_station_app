@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1067004876373",
+    "project_id": "charger-app-747a7",
+    "storage_bucket": "charger-app-747a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067004876373:android:81e34ea5a5e43d6c8fe6dc",
+        "android_client_info": {
+          "package_name": "com.example.charger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmX4Fz62L8-_6c2yyDzJKY32uDIUWfCQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067004876373:android:13b08b1899ece8bc8fe6dc",
+        "android_client_info": {
+          "package_name": "com.example.charging_station_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmX4Fz62L8-_6c2yyDzJKY32uDIUWfCQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
